@@ -1,4 +1,4 @@
-const magicBtn = document.querySelector('.input');
+const magicBtn = document.querySelector('.site-nav__link');
 console.log(magicBtn);
 
 const navEl = document.querySelector('li');

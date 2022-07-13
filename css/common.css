@@ -22,3 +22,11 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+li {
+  line-height: 1.5;
+}
+
+ul {
+  font-size: 1.5rem;
+}
