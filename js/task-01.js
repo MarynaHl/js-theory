@@ -1,5 +1,5 @@
-const magicBtn = document.querySelector('.js-magic-btn');
+const magicBtn = document.querySelector('.input');
+console.log(magicBtn);
 
-
-const navEl = document.querySelector('ul');
+const navEl = document.querySelector('li');
 console.log(navEl);
