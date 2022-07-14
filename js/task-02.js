@@ -6,5 +6,5 @@ magicBtn.addEventListener('click', () => {
   console.log(imageEl.src);
   imageEl.src = 
   'https://images.pexels.com/photos/57416/cat-sweet-kitty-animals-57416.jpeg?cs=srgb&dl=pexels-pixabay-57416.jpg&fm=jpg';
-  
+  imageEl.alt = 'New cat';
 });
