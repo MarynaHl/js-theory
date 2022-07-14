@@ -13,3 +13,6 @@ magicBtn.addEventListener('click', () => {
   console.log(heroTitleEl.textContent);
   heroTitleEl.textContent = 'I`m sweety'
 });
+
+
+imageEl.getAttribute('src')
