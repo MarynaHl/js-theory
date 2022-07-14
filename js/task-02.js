@@ -15,4 +15,6 @@ magicBtn.addEventListener('click', () => {
 });
 
 
-imageEl.getAttribute('src')
+// const actions = document.querySelectorAll('.js-actions button');
+// console.log("🚀 ~ file: task-02.js ~ line 19 ~ actions", actions)
+// console.log(actions[0].dataset);
